@@ -7,6 +7,4 @@ Passionate developer who loves providing fun and quality resources. All OSS and 
 
 You can ask for support in our Discord server
 
-<a href="https://dsc.gg/qw-scripts"><h1>
-  Join the Discord!
-</h1></a>
+<a href="https://dsc.gg/qw-scripts">Join the Discord!</a>
