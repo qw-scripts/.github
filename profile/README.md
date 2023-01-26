@@ -3,7 +3,7 @@
 </p>
 
 ## qw-scripts
-Passionate developer who loves providing fun and quality resources. All OSS and entirely free for the FiveM community to use and enjoy.
+Passionate developer who loves providing fun and quality resources. Everything here is for the community to use and enjoy.
 
 You can ask for support in our Discord server
 
